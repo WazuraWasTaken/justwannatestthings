@@ -245,3 +245,36 @@
         - Tribe
   items:
     - N14TribalSword
+
+- type: loadout
+  id: N14Machete
+  category: Weapons
+  cost: 4
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutMelee
+  items:
+    - N14Machete
+
+- type: loadout
+  id: N14Machete
+  category: Weapons
+  cost: 4
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutMelee
+  items:
+    - N14Machete
+
+- type: loadout
+  id: N14ChineseSword
+  category: Weapons
+  cost: 5
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutMelee
+    - !type:CharacterTraitRequirement
+      traits:
+        - LanguageChinese
+  items:
+    - N14ChineseSword
