@@ -61,7 +61,17 @@
 - type: entity
   parent: N14DoorWoodRedSlanted
   id: N14DoorWoodSlantedRedLockedFotA
-  suffix: FotA Locked
+  suffix: FotA, Locked
+  components:
+  - type: AccessReader
+    access: [["FotA"]]
+  - type: Wires
+    layoutId: AirlockService
+
+- type: entity
+  parent: BaseFenceMetalGate
+  id: N14DoorFenceMetalLockedFotA
+  suffix: FotA, Locked
   components:
   - type: AccessReader
     access: [["FotA"]]
