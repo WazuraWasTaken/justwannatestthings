@@ -4633,3 +4633,10 @@ Entries:
   id: 5838
   time: '2026-05-07T14:33:42.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/436
+- author: Bradysgaming
+  changes:
+    - type: Add
+      message: Added Supermutant followers of the apocalypse role.
+  id: 5839
+  time: '2026-05-07T14:36:36.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/437
