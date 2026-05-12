@@ -4892,3 +4892,10 @@ Entries:
   id: 5865
   time: '2026-05-12T01:30:09.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/486
+- author: Bradysgaming
+  changes:
+    - type: Add
+      message: Added Enclave job icons
+  id: 5866
+  time: '2026-05-12T03:06:56.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/487
