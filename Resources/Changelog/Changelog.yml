@@ -5078,3 +5078,10 @@ Entries:
   id: 5885
   time: '2026-05-13T21:08:37.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/511
+- author: Dpellowski
+  changes:
+    - type: Fix
+      message: Names should be whatever ID you have on.
+  id: 5886
+  time: '2026-05-13T22:06:10.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/512
