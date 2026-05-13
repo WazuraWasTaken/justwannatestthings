@@ -4973,3 +4973,22 @@ Entries:
   id: 5873
   time: '2026-05-13T02:32:11.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/498
+- author: Bradysgaming
+  changes:
+    - type: Add
+      message: Added Centurion Cinder Cohort Armor
+    - type: Add
+      message: Added Centurion Salt Column Armor
+    - type: Add
+      message: Added Unbroken Centurion Armor
+    - type: Add
+      message: Added Warforged Centurion Armor
+    - type: Add
+      message: Added Warlord Centurion Armor
+    - type: Tweak
+      message: brought all cent armor to 45% dmg resist across the board
+    - type: Tweak
+      message: Made zoot suit cheaper for supermutants in the loadout
+  id: 5874
+  time: '2026-05-13T02:32:55.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/497
